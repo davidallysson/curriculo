@@ -7,11 +7,12 @@ E-mail: davidmoreirainformatica@gmail.com
 
 Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
 
-## Redes Sociais
-*  [Facebook](https://www.facebook.com/david.allysson.9)
+## Formação
+Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
+Concluído em 2016
 
-*  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
-
+Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
+2 º Semestre - Finalização em 2020
 
 ## Experência Profissional
 * (2015 -  2016) <br>
@@ -19,6 +20,7 @@ Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material 
 Estagiário na Subsecretaria de Tecnologia da Informação e Ciência (SETIC). <br>
   * Colaborar no desenvolvimento dos projetos da Prefeitura. <br>
   * Corrigir pequenos bugs no Front-end e no Back-end. <br>
+
 
 * (2013 -  2015) <br>
 **IFRN - Campus São Gonçalo do Amarante** -
@@ -40,6 +42,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 ### Linguagens de Programação
 * PHP.
 * Ruby.
+* Java.
 
 ### Sistemas de controle de versão
 * Git.
@@ -52,21 +55,16 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Windows
 
 ## Projetos
-
-[Website Profissional](https://davidallysson.github.io/)
-
-[Engecall](https://github.com/davidallysson/Engecall)
-
-
-## Formação
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
-Concluído em 2016
-
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
-2 º Semestre - Finalização em 2020
+* [Site Pessoal](https://davidallysson.github.io/)
+* [Engecall](https://github.com/davidallysson/Engecall)
 
 ## Cursos Completos
 * Curso Git e Github para iniciantes (Udemy / [Certificado](#))
+* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
+
+## Redes Sociais
+*  [Facebook](https://www.facebook.com/david.allysson.9)
+*  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
