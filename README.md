@@ -15,6 +15,13 @@ Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Ana
 2 º Semestre - Finalização em 2020
 
 ## Experência Profissional
+* (2017 -  Atual) <br>
+**IFRN - Campus Natal Central** -
+Estagiário na Diretoria de Pesquisa e Extensão do Campus. <br>
+  * Colaborar no desenvolvimento do projeto que monitora a evasão escolar do Campus. <br>
+  * Corrigir bugs no projeto e desenvolver novas funcionalidades. <br>
+
+
 * (2015 -  2016) <br>
 **Prefeitura de São Gonçalo do Amarante** -
 Estagiário na Subsecretaria de Tecnologia da Informação e Ciência (SETIC). <br>
@@ -40,9 +47,9 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Inglês suficiente para ler e entender.
 
 ### Linguagens de Programação
+* Java.
 * PHP.
 * Ruby.
-* Java.
 
 ### Sistemas de controle de versão
 * Git.
@@ -64,7 +71,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/david.allysson.9)
-*  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
+*  [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
