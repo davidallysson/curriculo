@@ -1,23 +1,27 @@
 # David Allysson
 Desenvolvedor Web - Junior / Front-end e Back-end.
 
-Local: Natal/RN <br>
-Telefone: (84) 98776 - 5436 <br>
-E-mail: davidmoreirainformatica@gmail.com
+:house:    Natal/RN <br>
+:iphone:   (84) 98776 - 5436 <br>
+:envelope:  davidmoreirainformatica@gmail.com
 
-Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
+Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Play e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
 
 ## Formação
 Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
 Concluído em 2016
 
+[_Clique aqui para ver as disciplinas do curso._](#)
+
 Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
 2 º Semestre - Finalização em 2020
+
+[_Clique aqui para ver as disciplinas do curso._](#)
 
 ## Experência Profissional
 * (2017 -  Atual) <br>
 **IFRN - Campus Natal Central** -
-Estagiário na Diretoria de Pesquisa e Extensão do Campus. <br>
+Estagiário na Diretoria de Pesquisa e Extensão do Campus (DIPEQ). <br>
   * Colaborar no desenvolvimento do projeto que monitora a evasão escolar do Campus. <br>
   * Corrigir bugs no projeto e desenvolver novas funcionalidades. <br>
 
@@ -73,6 +77,10 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 *  [Facebook](https://www.facebook.com/david.allysson.9)
 *  [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
 
+## Informações Adicionais
+* Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014).
+
+<br>
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
 
