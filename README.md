@@ -11,12 +11,12 @@ Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material 
 Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
 Concluído em 2016
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
+[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
 
 Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
 2 º Semestre - Finalização em 2020
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
+[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
 
 ## Experência Profissional
 * (2017 -  Atual) <br>
