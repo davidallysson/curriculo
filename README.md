@@ -76,8 +76,9 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Curso Git e Github para iniciantes (Udemy / [Certificado](#))
 * Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
 
-##Eventos
-* IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) [Certificado](certificados/connepi-2014.pdf)
+## Eventos
+* IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) )
+* OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/david.allysson.9)
