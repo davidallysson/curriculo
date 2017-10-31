@@ -44,6 +44,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
   * Markdown.
 * CSS (Design Responsivo).
   * SASS
+  * Arquitetura BEM
 
 ### Banco de Dados
 * MySQL.
@@ -74,6 +75,9 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 ## Cursos Completos
 * Curso Git e Github para iniciantes (Udemy / [Certificado](#))
 * Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
+
+##Eventos
+* IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) [Certificado](certificados/connepi-2014.pdf)
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/david.allysson.9)
