@@ -23,8 +23,8 @@
 
 #### Obrigatórias
 
-| Nome                                                                        | Período | Concluido? |
-| --------------------------------------------------------------------------- |:-------:| ----- |
+| Nome                                                                        | Período |   Concluido? |
+| --------------------------------------------------------------------------- |:-:| :----------------: |
 | Web Design                                                                  | 1 | :heavy_check_mark: |
 | Programação de Computadores                                                 | 1 | :heavy_check_mark: |
 | Sistemas Digitais                                                           | 1 | :heavy_check_mark: |
@@ -56,19 +56,19 @@
 
 #### Optativas
 
-| Nome                                                                        |
-| --------------------------------------------------------------------------- |
-| Métodos Quantitativos                                                       |
-| Paradigmas de Linguagens de Programação                                     |
-| Segurança e Integridade dos Dados                                           |
-| Desenvolvimento de Jogos                                                    |
-| Desenvolvimento para Dispositivos Móveis                                    |
-| Aplicações com Interfaces Ricas                                             |
-| Qualidade de Software                                                       |
-| Engenharia de Requisitos                                                    |
-| Organização de Computadores                                                 |
-| Cálculo Diferencial e Integral                                              |
-| Qualidade de Vida e Trabalho                                                |
-| Informática                                                                 |
-| LIBRAS                                                                      |
-| Psicologia nas Relações de Trabalho                                         |
+| Nome                                                                        |     Concluido?     |
+| --------------------------------------------------------------------------- | :----------------: |
+| Métodos Quantitativos                                                       | :heavy_minus_sign: |
+| Paradigmas de Linguagens de Programação                                     | :heavy_minus_sign: |
+| Segurança e Integridade dos Dados                                           | :heavy_minus_sign: |
+| Desenvolvimento de Jogos                                                    | :heavy_minus_sign: |
+| Desenvolvimento para Dispositivos Móveis                                    | :heavy_minus_sign: |
+| Aplicações com Interfaces Ricas                                             | :heavy_minus_sign: |
+| Qualidade de Software                                                       | :heavy_minus_sign: |
+| Engenharia de Requisitos                                                    | :heavy_minus_sign: |
+| Organização de Computadores                                                 | :heavy_minus_sign: |
+| Cálculo Diferencial e Integral                                              | :heavy_minus_sign: |
+| Qualidade de Vida e Trabalho                                                | :heavy_minus_sign: |
+| Informática                                                                 | :heavy_minus_sign: |
+| LIBRAS                                                                      | :heavy_minus_sign: |
+| Psicologia nas Relações de Trabalho                                         | :heavy_minus_sign: |
