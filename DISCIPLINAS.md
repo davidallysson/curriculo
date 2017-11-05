@@ -23,36 +23,36 @@
 
 #### Obrigatórias
 
-| Nome                                                                        | Período |
-| --------------------------------------------------------------------------- |:-------:|
-| Web Design                                                                  | 1 |
-| Programação de Computadores                                                 | 1 |
-| Sistemas Digitais                                                           | 1 |
-| Matemática Discreta                                                         | 1 |
-| Programação Orientada a Objetos                                             | 2 |
-| Algoritmos                                                                  | 2 |
-| Redes de Computadores                                                       | 2 |
-| Arquitetura de Computadores                                                 | 2 |
-| Interface Humano-Computador                                                 | 2 |
-| Inglês Para Informática                                                     | 2 |
-| Desenvolvimento de Sistemas Web                                             | 3 |
-| Programação com Acesso a Banco de Dados                                     | 3 |
-| Estrutura de Dados Lineares                                                 | 3 |
-| Análise e Projeto Orientado a Objetos                                       | 3 |
-| Bancos De Dados                                                             | 3 |
-| Epistemologia da Ciência                                                    | 3 |
-| Sistemas Operacionais                                                       | 3 |
-| Desenvolvimento de Sistemas Distribuidos                                    | 4 |
-| Estrutura de Dados Não Lineares                                             | 4 |
-| Processo de Software                                                        | 4 |
-| Arquitetura de Software                                                     | 4 |
-| Programação e Administração de Banco de Dados                               | 4 |
-| Desenvolvimento de Sistemas Coorporativos                                   | 5 |
-| Gerência de Projeto                                                         | 5 |
-| Teste de Software                                                           | 5 |
-| Empreendedorismo                                                            | 5 |
-| Gestão de Tecnologia da Informação                                          | 6 |
-| Computador e Sociedade                                                      | 6 |
+| Nome                                                                        | Período | Concluido? |
+| --------------------------------------------------------------------------- |:-------:| ---------- |
+| Web Design                                                                  | 1 | :+1: |
+| Programação de Computadores                                                 | 1 | :+1: |
+| Sistemas Digitais                                                           | 1 | :+1: |
+| Matemática Discreta                                                         | 1 | :+1: |
+| Programação Orientada a Objetos                                             | 2 | :-1: |
+| Algoritmos                                                                  | 2 | :-1: |
+| Redes de Computadores                                                       | 2 | :-1: |
+| Arquitetura de Computadores                                                 | 2 | :-1: |
+| Interface Humano-Computador                                                 | 2 | :-1: |
+| Inglês Para Informática                                                     | 2 | :-1: |
+| Desenvolvimento de Sistemas Web                                             | 3 | :-1: |
+| Programação com Acesso a Banco de Dados                                     | 3 | :-1: |
+| Estrutura de Dados Lineares                                                 | 3 | :-1: |
+| Análise e Projeto Orientado a Objetos                                       | 3 | :-1: |
+| Bancos De Dados                                                             | 3 | :-1: |
+| Epistemologia da Ciência                                                    | 3 | :-1: |
+| Sistemas Operacionais                                                       | 3 | :-1: |
+| Desenvolvimento de Sistemas Distribuidos                                    | 4 | :-1: |
+| Estrutura de Dados Não Lineares                                             | 4 | :-1: |
+| Processo de Software                                                        | 4 | :-1: |
+| Arquitetura de Software                                                     | 4 | :-1: |
+| Programação e Administração de Banco de Dados                               | 4 | :-1: |
+| Desenvolvimento de Sistemas Coorporativos                                   | 5 | :-1: |
+| Gerência de Projeto                                                         | 5 | :-1: |
+| Teste de Software                                                           | 5 | :-1: |
+| Empreendedorismo                                                            | 5 | :-1: |
+| Gestão de Tecnologia da Informação                                          | 6 | :-1: |
+| Computador e Sociedade                                                      | 6 | :-1: |
 
 #### Optativas
 

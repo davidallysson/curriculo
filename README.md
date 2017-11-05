@@ -69,8 +69,8 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Windows
 
 ## Projetos
-* [Site Pessoal](https://davidallysson.github.io/)
-* [Engecall](https://github.com/davidallysson/Engecall)
+* [Blog Pessoal](https://davidallysson.github.io/)
+* [Engecall](https://davidallysson.github.io/Engecall)
 
 ## Cursos Completos
 * Curso Git e Github para iniciantes (Udemy / [Certificado](#))
