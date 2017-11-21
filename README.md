@@ -57,6 +57,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Java.
 * PHP.
 * Ruby.
+* Python.
 
 ### Sistemas de controle de versão
 * Git.
@@ -76,11 +77,15 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Curso Git e Github para iniciantes (Udemy / [Certificado](#))
 * Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
 
-## Eventos
+## Eventos como Participante
+* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
 * I Workshop do Nucleo Avançado de Inovação Tecnológica (NAVI) ( [Certificado](certificados/workshop-navi.pdf) )
 * Code Girl - 2ª Edição ( [Certificado](certificados/code-girl-2.pdf) )
 * IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) / [Mostra Tecnológica](certificados/mostra-tecnologica.pdf) )
 * OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
+
+## Eventos como Organização
+* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities-organization.pdf) )
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/david.allysson.9)
