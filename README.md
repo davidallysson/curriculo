@@ -39,6 +39,16 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
   * Ser responsável pelo laboratório utilizado pelos alunos.
   * Solucionar dúvidas referentes as disciplinas.
 
+## Conhecimentos
+
+### Gerais
+* Lógica de Programação.
+* Inglês suficiente para ler e entender.
+
+### Sistemas Operacionais
+* Linux
+* Windows
+
 ### Front-end
 * HTML.
   * Markdown.
@@ -46,12 +56,9 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
   * SASS
   * Arquitetura BEM
 
-### Banco de Dados
-* MySQL.
-
-### Gerais
-* Lógica de Programação.
-* Inglês suficiente para ler e entender.
+### Frameworks
+* Materialize (Sistema de Grid, Classes).
+* Bootstrap (Sistema de Grid, Classes).
 
 ### Linguagens de Programação
 * Java.
@@ -59,15 +66,12 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Ruby.
 * Python.
 
+### Banco de Dados
+* MySQL.
+* PostgreSQL.
+
 ### Sistemas de controle de versão
 * Git.
-
-### Frameworks
-* Materialize (Sistema de Grid, Classes).
-
-### Sistemas Operacionais
-* Linux
-* Windows
 
 ## Projetos
 * [Blog Pessoal](https://davidallysson.github.io/)
@@ -84,17 +88,18 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) / [Mostra Tecnológica](certificados/mostra-tecnologica.pdf) )
 * OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
 
-## Eventos como Organização
+## Eventos como Organizador
 * 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities-organization.pdf) )
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/david.allysson.9)
+*  [Twitter](https://twitter.com/DaviDAllysson)
 *  [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
 
 ## Informações Adicionais
 * Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014).
 
-<br>
+<br><br>
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
