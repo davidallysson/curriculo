@@ -56,7 +56,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
   * SASS
   * Arquitetura BEM
 
-### Frameworks
+### Frameworks Front-end
 * Materialize (Sistema de Grid, Classes).
 * Bootstrap (Sistema de Grid, Classes).
 
@@ -65,6 +65,9 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * PHP.
 * Ruby.
 * Python.
+
+### Frameworks Back-end
+* Laravel
 
 ### Banco de Dados
 * MySQL.
@@ -82,6 +85,8 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
 
 ## Eventos como Participante
+* VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
+* I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
 * 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
 * I Workshop do Nucleo Avançado de Inovação Tecnológica (NAVI) ( [Certificado](certificados/workshop-navi.pdf) )
 * Code Girl - 2ª Edição ( [Certificado](certificados/code-girl-2.pdf) )
