@@ -29,18 +29,17 @@
 | Programação de Computadores                                                 | 1 | :heavy_check_mark: |
 | Sistemas Digitais                                                           | 1 | :heavy_check_mark: |
 | Matemática Discreta                                                         | 1 | :heavy_check_mark: |
-| Programação Orientada a Objetos                                             | 2 | :heavy_minus_sign: |
+| Programação Orientada a Objetos                                             | 2 | :heavy_check_mark: |
 | Algoritmos                                                                  | 2 | :heavy_minus_sign: |
 | Redes de Computadores                                                       | 2 | :heavy_minus_sign: |
 | Arquitetura de Computadores                                                 | 2 | :heavy_minus_sign: |
 | Interface Humano-Computador                                                 | 2 | :heavy_minus_sign: |
 | Inglês Para Informática                                                     | 2 | :heavy_minus_sign: |
 | Desenvolvimento de Sistemas Web                                             | 3 | :heavy_minus_sign: |
-| Programação com Acesso a Banco de Dados                                     | 3 | :heavy_minus_sign: |
+| Programação com Acesso a Banco de Dados                                     | 3 | :heavy_check_mark: |
 | Estrutura de Dados Lineares                                                 | 3 | :heavy_minus_sign: |
 | Análise e Projeto Orientado a Objetos                                       | 3 | :heavy_minus_sign: |
-| Bancos De Dados                                                             | 3 | :heavy_minus_sign: |
-| Epistemologia da Ciência                                                    | 3 | :heavy_minus_sign: |
+| Epistemologia da Ciência                                                    | 3 | :heavy_check_mark: |
 | Sistemas Operacionais                                                       | 3 | :heavy_minus_sign: |
 | Desenvolvimento de Sistemas Distribuidos                                    | 4 | :heavy_minus_sign: |
 | Estrutura de Dados Não Lineares                                             | 4 | :heavy_minus_sign: |

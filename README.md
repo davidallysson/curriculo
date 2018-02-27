@@ -5,7 +5,7 @@ Desenvolvedor Web - Junior / Front-end e Back-end.
 :iphone:   (84) 98776 - 5436 <br>
 :envelope:  davidmoreirainformatica@gmail.com
 
-Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Play e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
+Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
 
 ## Formação
 Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
@@ -14,7 +14,7 @@ Concluído em 2016
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
 
 Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
-2 º Semestre - Finalização em 2020
+3 º Semestre - Finalização em 2020
 
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
 
