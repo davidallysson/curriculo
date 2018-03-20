@@ -56,9 +56,13 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
   * SASS
   * Arquitetura BEM
 
+### UI Kits
+* Material Kit.
+* Materialize.
+* Bootstrap.
+
 ### Frameworks Front-end
-* Materialize (Sistema de Grid, Classes).
-* Bootstrap (Sistema de Grid, Classes).
+* Vue.js
 
 ### Linguagens de Programação
 * Java.
@@ -85,6 +89,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
 
 ## Eventos como Participante
+* Code Girl - 5ª Edição ( [Certificado](certificados/code-girl-5.pdf) )
 * VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
 * I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
 * 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
