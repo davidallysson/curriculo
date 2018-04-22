@@ -81,7 +81,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Git.
 
 ## Projetos
-* [Blog Pessoal](https://davidallysson.github.io/)
+* [Site Pessoal](https://davidallysson.github.io/)
 * [Engecall](https://davidallysson.github.io/Engecall)
 
 ## Cursos Completos
@@ -89,6 +89,7 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
 * Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
 
 ## Eventos como Participante
+* Campus Party Natal ( [Certificado](certificados/cpnatal.pdf) )
 * Code Girl - 5ª Edição ( [Certificado](certificados/code-girl-5.pdf) )
 * VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
 * I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
