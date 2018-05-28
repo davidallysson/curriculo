@@ -1,8 +1,8 @@
 # David Allysson
 Desenvolvedor Web - Junior / Front-end e Back-end.
 
-:house:    Natal/RN <br>
-:iphone:   (84) 98776 - 5436 <br>
+:house:    Natal/RN<br>
+:iphone:   (84) 98776 - 5436<br>
 :envelope:  davidmoreirainformatica@gmail.com
 
 Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
